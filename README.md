@@ -18,5 +18,4 @@ A simple React web application that displays products using the [Fake Store API]
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/fakestore-react-app.git
-cd fakestore-react-app
+https://github.com/Muhammad-Arsalan-Khan/React-FakeStoreApi.git
